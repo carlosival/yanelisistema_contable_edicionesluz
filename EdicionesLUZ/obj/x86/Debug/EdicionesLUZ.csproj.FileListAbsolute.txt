@@ -1,0 +1,215 @@
+c:\users\yanelis\documents\visual studio 2010\Projects\EdicionesLUZ\EdicionesLUZ\bin\Debug\EdicionesLUZ.exe
+c:\users\yanelis\documents\visual studio 2010\Projects\EdicionesLUZ\EdicionesLUZ\bin\Debug\EdicionesLUZ.pdb
+c:\users\yanelis\documents\visual studio 2010\Projects\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\yanelis\documents\visual studio 2010\Projects\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Properties.Resources.resources
+c:\users\yanelis\documents\visual studio 2010\Projects\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\yanelis\documents\visual studio 2010\Projects\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\yanelis\documents\visual studio 2010\Projects\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.exe
+c:\users\yanelis\documents\visual studio 2010\Projects\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.pdb
+C:\Users\Yanelis\documents\visual studio 2010\Projects\EdicionesLUZ\EdicionesLUZ\bin\Debug\EdicionesLUZ.exe.config
+C:\Users\Yanelis\documents\visual studio 2010\Projects\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Inicio.resources
+C:\Users\Yanelis\documents\visual studio 2010\Projects\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Wizard.resources
+C:\Users\Yanelis\documents\visual studio 2010\Projects\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.XtraReport1.resources
+C:\Users\Yanelis\documents\visual studio 2010\Projects\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.exe.licenses
+C:\Users\Yanelis\documents\visual studio 2010\Projects\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Form1.resources
+C:\Users\Yanelis\documents\visual studio 2010\Projects\EdicionesLUZ\EdicionesLUZ\bin\Debug\libros.accdb
+D:\Trabajo\Workspace\Sistema Contable\EdicionesLUZ\EdicionesLUZ\EdicionesLUZ\bin\Debug\EdicionesLUZ.exe.config
+D:\Trabajo\Workspace\Sistema Contable\EdicionesLUZ\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.exe
+D:\Trabajo\Workspace\Sistema Contable\EdicionesLUZ\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.pdb
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\EdicionesLUZ\EdicionesLUZ\bin\Debug\EdicionesLUZ.exe.config
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.exe
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.pdb
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\EdicionesLUZ\EdicionesLUZ\bin\Debug\libros.accdb
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\EdicionesLUZ\EdicionesLUZ\bin\Debug\EdicionesLUZ.exe
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\EdicionesLUZ\EdicionesLUZ\bin\Debug\EdicionesLUZ.pdb
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Form1.resources
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Properties.Resources.resources
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Wizard.resources
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.csproj.GenerateResource.Cache
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.SIFOC.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\EdicionesLUZ\EdicionesLUZ\bin\Debug\EdicionesLUZ.exe.config
+C:\Users\Yanelis\Desktop\Sistema Contable\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.exe
+C:\Users\Yanelis\Desktop\Sistema Contable\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.pdb
+C:\Users\Yanelis\Desktop\Sistema Contable\EdicionesLUZ\EdicionesLUZ\bin\Debug\EdicionesLUZ.exe
+C:\Users\Yanelis\Desktop\Sistema Contable\EdicionesLUZ\EdicionesLUZ\bin\Debug\EdicionesLUZ.pdb
+C:\Users\Yanelis\Desktop\Sistema Contable\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Yanelis\Desktop\Sistema Contable\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Form1.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.SIFOC.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Properties.Resources.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Wizard.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Yanelis\Desktop\Sistema Contable\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Yanelis\Desktop\Sistema Contable\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.exe.licenses
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Factura.FacturaModelo.resources
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.PrintRibbonControllerResources.resources
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Visual.VFactura.resources
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.exe.licenses
+C:\Users\Yanelis\Desktop\Sistema Contable\6-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Yanelis\Desktop\Sistema Contable\6-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Factura.FacturaModelo.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\6-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Form1.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\6-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.PrintRibbonControllerResources.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\6-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Visual.VFactura.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\6-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.SIFOC.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\6-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Properties.Resources.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\6-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Wizard.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\6-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Yanelis\Desktop\Sistema Contable\6-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Yanelis\Desktop\Sistema Contable\6-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.exe.licenses
+C:\Users\Yanelis\Desktop\Sistema Contable\6-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.exe
+C:\Users\Yanelis\Desktop\Sistema Contable\6-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.pdb
+C:\Users\Yanelis\Desktop\Sistema Contable\6-02-2014\EdicionesLUZ\EdicionesLUZ\bin\Debug\EdicionesLUZ.exe.config
+C:\Users\Yanelis\Desktop\Sistema Contable\6-02-2014\EdicionesLUZ\EdicionesLUZ\bin\Debug\libros.accdb
+C:\Users\Yanelis\Desktop\Sistema Contable\6-02-2014\EdicionesLUZ\EdicionesLUZ\bin\Debug\EdicionesLUZ.exe
+C:\Users\Yanelis\Desktop\Sistema Contable\6-02-2014\EdicionesLUZ\EdicionesLUZ\bin\Debug\EdicionesLUZ.pdb
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.csprojResolveAssemblyReference.cache
+C:\Users\Yanelis\Desktop\Sistema Contable\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Factura.FacturaModelo.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.PrintRibbonControllerResources.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Visual.VFactura.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\EdicionesLUZ\EdicionesLUZ\bin\Debug\libros.accdb
+C:\Users\Alexis Ival\Desktop\EdicionesLUZ\EdicionesLUZ\bin\Debug\EdicionesLUZ.exe.config
+C:\Users\Alexis Ival\Desktop\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.exe
+C:\Users\Alexis Ival\Desktop\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.pdb
+C:\Users\Alexis Ival\Desktop\EdicionesLUZ\EdicionesLUZ\bin\Debug\libros.accdb
+C:\Users\Alexis Ival\Desktop\EdicionesLUZ\EdicionesLUZ\bin\Debug\EdicionesLUZ.exe
+C:\Users\Alexis Ival\Desktop\EdicionesLUZ\EdicionesLUZ\bin\Debug\EdicionesLUZ.pdb
+C:\Users\Alexis Ival\Desktop\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexis Ival\Desktop\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Factura.FacturaModelo.resources
+C:\Users\Alexis Ival\Desktop\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Form1.resources
+C:\Users\Alexis Ival\Desktop\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.PrintRibbonControllerResources.resources
+C:\Users\Alexis Ival\Desktop\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Visual.VFactura.resources
+C:\Users\Alexis Ival\Desktop\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.SIFOC.resources
+C:\Users\Alexis Ival\Desktop\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Properties.Resources.resources
+C:\Users\Alexis Ival\Desktop\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Wizard.resources
+C:\Users\Alexis Ival\Desktop\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alexis Ival\Desktop\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alexis Ival\Desktop\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.exe.licenses
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\17-02-2014\EdicionesLUZ\EdicionesLUZ\bin\Debug\EdicionesLUZ.exe.config
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\17-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.exe
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\17-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.pdb
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\17-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Factura.FacturaModelo.resources
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\17-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Form1.resources
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\17-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.PrintRibbonControllerResources.resources
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\17-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Visual.VFactura.resources
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\17-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.SIFOC.resources
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\17-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Properties.Resources.resources
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\17-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Wizard.resources
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\17-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.csproj.GenerateResource.Cache
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\17-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.exe.licenses
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\17-02-2014\EdicionesLUZ\EdicionesLUZ\bin\Debug\libros.accdb
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\17-02-2014\EdicionesLUZ\EdicionesLUZ\bin\Debug\EdicionesLUZ.exe
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\17-02-2014\EdicionesLUZ\EdicionesLUZ\bin\Debug\EdicionesLUZ.pdb
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\17-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.csprojResolveAssemblyReference.cache
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\17-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Visual.Pantalla_de__inicio.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\22-02-2014\EdicionesLUZ\EdicionesLUZ\bin\Debug\EdicionesLUZ.exe.config
+C:\Users\Yanelis\Desktop\Sistema Contable\22-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.exe
+C:\Users\Yanelis\Desktop\Sistema Contable\22-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.pdb
+C:\Users\Yanelis\Desktop\Sistema Contable\22-02-2014\EdicionesLUZ\EdicionesLUZ\bin\Debug\libros.accdb
+C:\Users\Yanelis\Desktop\Sistema Contable\22-02-2014\EdicionesLUZ\EdicionesLUZ\bin\Debug\EdicionesLUZ.exe
+C:\Users\Yanelis\Desktop\Sistema Contable\22-02-2014\EdicionesLUZ\EdicionesLUZ\bin\Debug\EdicionesLUZ.pdb
+C:\Users\Yanelis\Desktop\Sistema Contable\22-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Yanelis\Desktop\Sistema Contable\22-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Factura.FacturaModelo.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\22-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Form1.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\22-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.PrintRibbonControllerResources.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\22-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Visual.Pantalla_de__inicio.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\22-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Visual.VFactura.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\22-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.SIFOC.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\22-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Properties.Resources.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\22-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Wizard.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\22-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Yanelis\Desktop\Sistema Contable\22-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Yanelis\Desktop\Sistema Contable\22-02-2014\EdicionesLUZ\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.exe.licenses
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\27-02-2014\EdicionesLUZ\bin\Debug\EdicionesLUZ.exe.config
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\27-02-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.exe
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\27-02-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.pdb
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\27-02-2014\EdicionesLUZ\bin\Debug\libros.accdb
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\27-02-2014\EdicionesLUZ\bin\Debug\EdicionesLUZ.exe
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\27-02-2014\EdicionesLUZ\bin\Debug\EdicionesLUZ.pdb
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\27-02-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Factura.FacturaModelo.resources
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\27-02-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Form1.resources
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\27-02-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.PrintRibbonControllerResources.resources
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\27-02-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Visual.Pantalla_de__inicio.resources
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\27-02-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Visual.VFactura.resources
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\27-02-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.SIFOC.resources
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\27-02-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Properties.Resources.resources
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\27-02-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Wizard.resources
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\27-02-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.csproj.GenerateResource.Cache
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\27-02-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.exe.licenses
+D:\Trabajo\Workspace\Sistema Contable\Proyecto\27-02-2014\EdicionesLUZ\bin\Debug\Database.sdf
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\bin\Debug\libros.accdb
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Factura.FacturaModelo.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Form1.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.PrintRibbonControllerResources.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Visual.Pantalla_de__inicio.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Visual.VFactura.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.SIFOC.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Properties.Resources.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Wizard.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.exe.licenses
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\bin\Debug\Consulta\ClienteAccess.cs
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\bin\Debug\EdicionesLUZ.exe.config
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\bin\Debug\EdicionesLUZ.exe
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\bin\Debug\EdicionesLUZ.pdb
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\bin\Debug\DevExpress.Data.v11.1.Compact.dll
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\bin\Debug\DevExpress.Xpo.v11.1.Compact.dll
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\bin\Debug\DevExpress.Xpo.v11.1.Providers.Compact.dll
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.exe
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.pdb
+C:\Users\Yanelis\Desktop\Sistema Contable\27-02-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Visual.VClientesListado.resources
+C:\Users\Yanelis\Desktop\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\libros.accdb
+C:\Users\Yanelis\Desktop\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Factura.FacturaModelo.resources
+C:\Users\Yanelis\Desktop\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Form1.resources
+C:\Users\Yanelis\Desktop\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.PrintRibbonControllerResources.resources
+C:\Users\Yanelis\Desktop\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Visual.Pantalla_de__inicio.resources
+C:\Users\Yanelis\Desktop\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Visual.VClientesListado.resources
+C:\Users\Yanelis\Desktop\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Visual.VFactura.resources
+C:\Users\Yanelis\Desktop\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.SIFOC.resources
+C:\Users\Yanelis\Desktop\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Properties.Resources.resources
+C:\Users\Yanelis\Desktop\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Wizard.resources
+C:\Users\Yanelis\Desktop\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.csproj.GenerateResource.Cache
+C:\Users\Yanelis\Desktop\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.exe.licenses
+C:\Users\Yanelis\Desktop\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\Consulta\ClienteAccess.cs
+C:\Users\Yanelis\Desktop\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\EdicionesLUZ.exe.config
+C:\Users\Yanelis\Desktop\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\EdicionesLUZ.exe
+C:\Users\Yanelis\Desktop\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\EdicionesLUZ.pdb
+C:\Users\Yanelis\Desktop\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\DevExpress.Data.v11.1.Compact.dll
+C:\Users\Yanelis\Desktop\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\DevExpress.Xpo.v11.1.Compact.dll
+C:\Users\Yanelis\Desktop\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\DevExpress.Xpo.v11.1.Providers.Compact.dll
+C:\Users\Yanelis\Desktop\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\Yanelis\Desktop\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+C:\Users\Yanelis\Desktop\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\Yanelis\Desktop\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+C:\Users\Yanelis\Desktop\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.exe
+C:\Users\Yanelis\Desktop\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.pdb
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\EdicionesLUZ.exe.config
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.exe
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.pdb
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\Consulta\ClienteAccess.cs
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\EdicionesLUZ.exe
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\EdicionesLUZ.pdb
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\DevExpress.Data.v11.1.Compact.dll
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\DevExpress.Xpo.v11.1.Compact.dll
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\DevExpress.Xpo.v11.1.Providers.Compact.dll
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Factura.FacturaModelo.resources
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Form1.resources
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.PrintRibbonControllerResources.resources
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Visual.Pantalla_de__inicio.resources
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Visual.VClientesListado.resources
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Visual.VFactura.resources
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.SIFOC.resources
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Properties.Resources.resources
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.Wizard.resources
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Debug\EdicionesLUZ.exe.licenses

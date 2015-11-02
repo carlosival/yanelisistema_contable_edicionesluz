@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EdicionesLUZ.Modelo.Cliente">
+    <Position X="1.75" Y="4" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAIBAAACAIAIBQCACAQAAAAAAAAgAAAgI=</HashCode>
+      <FileName>Modelo\Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EdicionesLUZ.Modelo.Entidad">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAACAAIACgACAAgAAAAAAIAAAACAAAAAAAAAI=</HashCode>
+      <FileName>Modelo\Entidad.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="pedidos" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="EdicionesLUZ.Modelo.Pedido">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>wAaCSMAAAEAIBAAACASCAACEghAAhAAQAAQAAAAEAgg=</HashCode>
+      <FileName>Modelo\Pedido.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="cliente" />
+      <Field Name="servicio" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EdicionesLUZ.Modelo.Servicio">
+    <Position X="5.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAQAAEAEQABAAEAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Modelo\Servicio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

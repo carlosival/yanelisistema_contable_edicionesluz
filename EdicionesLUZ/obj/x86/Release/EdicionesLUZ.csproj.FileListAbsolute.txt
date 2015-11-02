@@ -1,0 +1,458 @@
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Consulta\ClienteAccess.cs
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe.config
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.pdb
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\DevExpress.Data.v11.1.Compact.dll
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Compact.dll
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Providers.Compact.dll
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.dll
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.xml
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Form1.resources
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.PrintRibbonControllerResources.resources
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.Pantalla_de__inicio.resources
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VClientesListado.resources
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VFactura.resources
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.SIFOC.resources
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Properties.Resources.resources
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Wizard.resources
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe.licenses
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.pdb
+E:\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Factura.FacturaModelo.resources
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe.config
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.pdb
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Consulta\ClienteAccess.cs
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.pdb
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\DevExpress.Data.v11.1.Compact.dll
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Compact.dll
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Providers.Compact.dll
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.dll
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.xml
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Factura.FacturaModelo.resources
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Form1.resources
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.PrintRibbonControllerResources.resources
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.Pantalla_de__inicio.resources
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VClientesListado.resources
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VFactura.resources
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.SIFOC.resources
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Properties.Resources.resources
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Wizard.resources
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Alexis Ival\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe.licenses
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe.config
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.pdb
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Factura.FacturaModelo.resources
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Form1.resources
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.PrintRibbonControllerResources.resources
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.Pantalla_de__inicio.resources
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VClientesListado.resources
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VFactura.resources
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.SIFOC.resources
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Properties.Resources.resources
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Wizard.resources
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.csproj.GenerateResource.Cache
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe.licenses
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Consulta\ClienteAccess.cs
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.pdb
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\DevExpress.Data.v11.1.Compact.dll
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Compact.dll
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Providers.Compact.dll
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.dll
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.xml
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\EdicionesLUZ.exe.config
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\Consulta\ClienteAccess.cs
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\EdicionesLUZ.exe
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\EdicionesLUZ.pdb
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\DevExpress.Data.v11.1.Compact.dll
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\DevExpress.Xpo.v11.1.Compact.dll
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\DevExpress.Xpo.v11.1.Providers.Compact.dll
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.csprojResolveAssemblyReference.cache
+D:\TEMPORAL - MILAGRO IVAL\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\libros.accdb
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Consulta\ClienteAccess.cs
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe.config
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.pdb
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Factura.FacturaModelo.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.PrintRibbonControllerResources.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.Pantalla_de__inicio.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesEntidad.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesPedido.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VClientesListado.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VFactura.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.SIFOC.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Properties.Resources.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Wizard.resources
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe.licenses
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.pdb
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\DevExpress.Data.v11.1.Compact.dll
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Compact.dll
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Providers.Compact.dll
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.dll
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\Yanelis\Desktop\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.xml
+D:\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe.config
+D:\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe
+D:\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.pdb
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe.config
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.pdb
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Consulta\ClienteAccess.cs
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.pdb
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\DevExpress.Data.v11.1.Compact.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Compact.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Providers.Compact.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.xml
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Factura.FacturaModelo.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.PrintRibbonControllerResources.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesEntidad.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesPedido.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VClientesListado.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VFactura.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.SIFOC.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Properties.Resources.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Wizard.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.csproj.GenerateResource.Cache
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe.licenses
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PantallaInicio.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesCliente.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\libros.accdb
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe.config
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.pdb
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\libros.accdb
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Consulta\ClienteAccess.cs
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.pdb
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\DevExpress.Data.v11.1.Compact.dll
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Compact.dll
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Providers.Compact.dll
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.dll
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.xml
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Factura.FacturaModelo.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.PrintRibbonControllerResources.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PantallaInicio.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesCliente.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesEntidad.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesPedido.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VClientesListado.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VFactura.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.SIFOC.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Properties.Resources.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Wizard.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\YANELIS\Desktop\Sistema Contable 21-03-2014\Sistema Contable 21-03-2014\EdicionesLUZ\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe.config
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.pdb
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe.config
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.pdb
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\bin\Release\libros.accdb
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\bin\Release\Consulta\ClienteAccess.cs
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.pdb
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\bin\Release\DevExpress.Data.v11.1.Compact.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Compact.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Providers.Compact.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.xml
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.csprojResolveAssemblyReference.cache
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Factura.FacturaModelo.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.PrintRibbonControllerResources.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PantallaInicio.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesCliente.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesEntidad.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesPedido.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VClientesListado.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VFactura.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.SIFOC.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Properties.Resources.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Wizard.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.csproj.GenerateResource.Cache
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe.licenses
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\bin\Release\libros.accdb
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\bin\Release\Consulta\ClienteAccess.cs
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.pdb
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\bin\Release\DevExpress.Data.v11.1.Compact.dll
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Compact.dll
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Providers.Compact.dll
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.dll
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.xml
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Factura.FacturaModelo.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.PrintRibbonControllerResources.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PantallaInicio.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesCliente.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesEntidad.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesPedido.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VClientesListado.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VFactura.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.SIFOC.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Properties.Resources.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Wizard.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\YANELIS\Desktop\Sistema Contable 6-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe.licenses
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.csprojResolveAssemblyReference.cache
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Factura.FacturaModelo.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.PrintRibbonControllerResources.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PantallaInicio.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesCliente.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesEntidad.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesPedido.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VClientesListado.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VFactura.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.SIFOC.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Properties.Resources.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Wizard.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.csproj.GenerateResource.Cache
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe.licenses
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe.config
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\bin\Release\libros.accdb
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\bin\Release\Consulta\ClienteAccess.cs
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.pdb
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\bin\Release\DevExpress.Data.v11.1.Compact.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Compact.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Providers.Compact.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.xml
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.pdb
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe.config
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.pdb
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\bin\Release\libros.accdb
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\bin\Release\Consulta\ClienteAccess.cs
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.pdb
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\bin\Release\DevExpress.Data.v11.1.Compact.dll
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Compact.dll
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Providers.Compact.dll
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.dll
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.xml
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Factura.FacturaModelo.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.PrintRibbonControllerResources.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PantallaInicio.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesCliente.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesEntidad.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesPedido.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VClientesListado.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VFactura.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.SIFOC.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Properties.Resources.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Wizard.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\YANELIS\Desktop\Sistema Contable 10-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe.licenses
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe.config
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.pdb
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\bin\Release\libros.accdb
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\bin\Release\Consulta\ClienteAccess.cs
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.pdb
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\bin\Release\DevExpress.Data.v11.1.Compact.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Compact.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Providers.Compact.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.xml
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.csprojResolveAssemblyReference.cache
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Factura.FacturaModelo.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.PrintRibbonControllerResources.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PantallaInicio.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesCliente.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesEntidad.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesPedido.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VClientesListado.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VFactura.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.SIFOC.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Properties.Resources.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Wizard.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.csproj.GenerateResource.Cache
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-004-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe.licenses
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe.config
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.pdb
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\bin\Release\libros.accdb
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\bin\Release\Consulta\ClienteAccess.cs
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.pdb
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\bin\Release\DevExpress.Data.v11.1.Compact.dll
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Compact.dll
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Providers.Compact.dll
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.dll
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.xml
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Factura.FacturaModelo.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.PrintRibbonControllerResources.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PantallaInicio.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesCliente.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesEntidad.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesPedido.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VClientesListado.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VFactura.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.SIFOC.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Properties.Resources.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Wizard.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\YANELIS\Desktop\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe.licenses
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe.config
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.pdb
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\bin\Release\libros.accdb
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\bin\Release\Consulta\ClienteAccess.cs
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.pdb
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\bin\Release\DevExpress.Data.v11.1.Compact.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Compact.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Providers.Compact.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.xml
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.csprojResolveAssemblyReference.cache
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Factura.FacturaModelo.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.PrintRibbonControllerResources.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PantallaInicio.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesCliente.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesEntidad.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesPedido.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VClientesListado.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VFactura.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.SIFOC.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Properties.Resources.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Wizard.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.csproj.GenerateResource.Cache
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 14-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe.licenses
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe.config
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.pdb
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\bin\Release\libros.accdb
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\bin\Release\Consulta\ClienteAccess.cs
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.pdb
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\bin\Release\DevExpress.Data.v11.1.Compact.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Compact.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Providers.Compact.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.xml
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.csprojResolveAssemblyReference.cache
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Factura.FacturaModelo.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.PrintRibbonControllerResources.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PantallaInicio.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesCliente.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesEntidad.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesPedido.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VClientesListado.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VFactura.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.SIFOC.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Properties.Resources.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Wizard.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.csproj.GenerateResource.Cache
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe.licenses
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\bin\Release\libros.accdb
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\bin\Release\Consulta\ClienteAccess.cs
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe.config
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.pdb
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\bin\Release\DevExpress.Data.v11.1.Compact.dll
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Compact.dll
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Providers.Compact.dll
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.dll
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.xml
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Factura.FacturaModelo.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.PrintRibbonControllerResources.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PantallaInicio.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesCliente.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesEntidad.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesPedido.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VClientesListado.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VFactura.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.SIFOC.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Properties.Resources.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Wizard.resources
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe.licenses
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe
+C:\Users\YANELIS\Desktop\Sistema Contable 29-04-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.pdb
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe.config
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.pdb
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\bin\Release\libros.accdb
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\bin\Release\Consulta\ClienteAccess.cs
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.exe
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\bin\Release\EdicionesLUZ.pdb
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\bin\Release\DevExpress.Data.v11.1.Compact.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Compact.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\bin\Release\DevExpress.Xpo.v11.1.Providers.Compact.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.dll
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\bin\Release\Microsoft.Windows.Design.Interaction.xml
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.csprojResolveAssemblyReference.cache
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Factura.FacturaModelo.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.PrintRibbonControllerResources.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PantallaInicio.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesCliente.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesEntidad.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.PropiedadesPedido.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VClientesListado.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Visual.VFactura.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.SIFOC.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Properties.Resources.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.Wizard.resources
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.csproj.GenerateResource.Cache
+D:\Trabajo\Workspace\Sistema Contable\Sistema Contable 26-05-2014\EdicionesLUZ\obj\x86\Release\EdicionesLUZ.exe.licenses

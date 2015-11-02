@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdicionesLUZ", "EdicionesLUZ\EdicionesLUZ.csproj", "{275C1122-8E16-47FE-BD81-2B8CA1DC6341}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{84E5A111-2A98-4C71-B6D2-54C7701F48F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		dll|Any CPU = dll|Any CPU
+		dll|Mixed Platforms = dll|Mixed Platforms
+		dll|x86 = dll|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{275C1122-8E16-47FE-BD81-2B8CA1DC6341}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{275C1122-8E16-47FE-BD81-2B8CA1DC6341}.Debug|Mixed Platforms.ActiveCfg = Release|x86
+		{275C1122-8E16-47FE-BD81-2B8CA1DC6341}.Debug|Mixed Platforms.Build.0 = Release|x86
+		{275C1122-8E16-47FE-BD81-2B8CA1DC6341}.Debug|x86.ActiveCfg = Debug|x86
+		{275C1122-8E16-47FE-BD81-2B8CA1DC6341}.Debug|x86.Build.0 = Debug|x86
+		{275C1122-8E16-47FE-BD81-2B8CA1DC6341}.dll|Any CPU.ActiveCfg = dll|x86
+		{275C1122-8E16-47FE-BD81-2B8CA1DC6341}.dll|Mixed Platforms.ActiveCfg = dll|x86
+		{275C1122-8E16-47FE-BD81-2B8CA1DC6341}.dll|Mixed Platforms.Build.0 = dll|x86
+		{275C1122-8E16-47FE-BD81-2B8CA1DC6341}.dll|x86.ActiveCfg = dll|x86
+		{275C1122-8E16-47FE-BD81-2B8CA1DC6341}.dll|x86.Build.0 = dll|x86
+		{275C1122-8E16-47FE-BD81-2B8CA1DC6341}.Release|Any CPU.ActiveCfg = Release|x86
+		{275C1122-8E16-47FE-BD81-2B8CA1DC6341}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{275C1122-8E16-47FE-BD81-2B8CA1DC6341}.Release|Mixed Platforms.Build.0 = Release|x86
+		{275C1122-8E16-47FE-BD81-2B8CA1DC6341}.Release|x86.ActiveCfg = Release|x86
+		{275C1122-8E16-47FE-BD81-2B8CA1DC6341}.Release|x86.Build.0 = Release|x86
+		{84E5A111-2A98-4C71-B6D2-54C7701F48F7}.Debug|Any CPU.ActiveCfg = Debug
+		{84E5A111-2A98-4C71-B6D2-54C7701F48F7}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{84E5A111-2A98-4C71-B6D2-54C7701F48F7}.Debug|x86.ActiveCfg = Debug
+		{84E5A111-2A98-4C71-B6D2-54C7701F48F7}.dll|Any CPU.ActiveCfg = Debug
+		{84E5A111-2A98-4C71-B6D2-54C7701F48F7}.dll|Mixed Platforms.ActiveCfg = Debug
+		{84E5A111-2A98-4C71-B6D2-54C7701F48F7}.dll|x86.ActiveCfg = Debug
+		{84E5A111-2A98-4C71-B6D2-54C7701F48F7}.Release|Any CPU.ActiveCfg = Release
+		{84E5A111-2A98-4C71-B6D2-54C7701F48F7}.Release|Mixed Platforms.ActiveCfg = Release
+		{84E5A111-2A98-4C71-B6D2-54C7701F48F7}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
